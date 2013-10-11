@@ -8,20 +8,23 @@ ____________________
 
 
 
-###ANTWORT from [Julie Ng @jng5](https://github.com/InterNations/antwort)
-* (Preview) /templates/antwort-3columns-to-rows.html
-* (Preview) /templates/antwort-_container.html
+###ANTWORT 
+####from Julie Ng [@jng5](https://github.com/InterNations/antwort)
+* Preview: [/templates/antwort-3columns-to-rows.html](http://gegere.github.io/templates/responsive-email-templates/templates/antwort-3columns-to-rows.html)
+* Preview: [/templates/antwort-_container.html](http://gegere.github.io/templates/antwort-_container.html)
 
 
-###Responsive Email from [Phil Wareham @philwareham](https://github.com/philwareham/responsive-email)
-* (Preview) /templates/email-boilerplate-all-features.html
-* (Preview) /templates/email-boilerplate-simple.html
+###Responsive Email 
+####from Phil Wareham [@philwareham](https://github.com/philwareham/responsive-email)
+* Preview: [/templates/email-boilerplate-all-features.html](http://gegere.github.io/responsive-email-templates/templates/email-boilerplate-all-features.html)
+* Preview: [/templates/email-boilerplate-simple.html](http://gegere.github.io/responsive-email-templates/templates/email-boilerplate-simple.html)
 
 
 
-###Responsive Grid Email from Campaign Monitor (source not on github, til' now)
-* (Preview) /templates/grid-template-all-features.html
-* (Preview) /templates/grid-template-simple.html
+###Responsive Grid Email 
+####from Campaign Monitor (not on github, til' now)
+* Preview: [/templates/grid-template-all-features.html](http://gegere.github.io/responsive-email-templates/templates/grid-template-all-features.html)
+* Preview: [/templates/grid-template-simple.html](http://gegere.github.io/responsive-email-templates/templates/grid-template-simple.html)
 
 ____________________
 
