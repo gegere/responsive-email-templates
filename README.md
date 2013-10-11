@@ -10,8 +10,8 @@ ____________________
 
 ###ANTWORT 
 ####from Julie Ng [@jng5](https://github.com/InterNations/antwort)
-* Preview: [/templates/antwort-3columns-to-rows.html](http://gegere.github.io/templates/responsive-email-templates/templates/antwort-3columns-to-rows.html)
-* Preview: [/templates/antwort-_container.html](http://gegere.github.io/templates/antwort-_container.html)
+* Preview: [/templates/antwort-3columns-to-rows.html](http://gegere.github.io/responsive-email-templates/templates/antwort-3columns-to-rows.html)
+* Preview: [/templates/antwort-_container.html](http://gegere.github.io/responsive-email-templates/templates/antwort-_container.html)
 
 
 ###Responsive Email 
